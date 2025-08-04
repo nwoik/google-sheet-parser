@@ -18,11 +18,12 @@ npm install
 
 The workspace folder should look like this 
 
-> __google-sheet-parser/__
->> LTRC/
->> out/
->> node_modules/
->> ...
+google-sheet-parser/
+|
+|--LTRC/
+|--out/
+|--node_modules/
+|--...
 
 6. Run the jest tests
 
