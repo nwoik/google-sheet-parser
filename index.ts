@@ -13,7 +13,7 @@ export interface Season {
 }
 
 export interface Participant {
-    friendCode: string
+    name: string // change to friendCode
     mmr: number
 }
 
