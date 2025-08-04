@@ -15,16 +15,6 @@ npm install
 3. Go to the LTRC google sheet and export to html
 4. Copy the LTRC folder into workspace
 5. Create an empty 'out' folder
-
-The workspace folder should look like this 
-
-google-sheet-parser/
-|
-|--LTRC/
-|--out/
-|--node_modules/
-|--...
-
 6. Run the jest tests
 
 ```sh
